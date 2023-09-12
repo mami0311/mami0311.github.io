@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WBC cafe</title>
+    <meta name="description"="美味しいコーヒーをどうぞ"
+
+<!--CSS-->
+<link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
+<link href="https://fonts.googleapis.com/css?family=Philosopher" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+<link rel="icon" type="image/png" href="image/favicon.png">
+</head>
+<body>
+    <div id="menu" class="big-bg">
+    <header class="page-header wrapper">
+        <a href="index.html"><img class="logo" src="image/logo.svg" alt="WCBカフェ ホーム"></a>
+    <nav>
+        <ul class="main-nav">
+            <li><a href="news.html">News</a></li>
+            <li><a href="menu.html">Menu</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+       
+    </nav>
+    </header>
+    <div class="menu-content wrapper">
+        
+        <h2 class="page-title">MENU</h2>
+        <p>体に優しい自然食を提供する、WCB CAFE。無添加の食材を利用したメニューが特徴です。 おいしいブレンドコーヒーとヘルシーなオーガニックフードで体の内側から癒やされてください。</p>
+        
+    </div><!--menu-content-->
+    </div><!--menu-->
+    <div class="wrapper grid">
+    <div class="item">
+        <img src="image/menu1.jpg" alt="">
+        <p>写真キャプション写真キャプション</p>
+    </div>
+    <div class="item">
+        <img src="image/menu2.jpg" alt="">
+        <p>写真キャプション写真キャプション</p>
+    </div>
+    <div class="item">
+        <img src="image/menu3.jpg" alt="">
+        <p>写真キャプション写真キャプション</p>
+    </div>
+    <div class="item">
+        <img src="image/menu4.jpg" alt="">
+        <p>写真キャプション写真キャプション</p>
+    </div>
+    <div class="item">
+        <img src="image/menu5.jpg" alt="">
+        <p>写真キャプション写真キャプション</p>
+    </div>
+    <div class="item">
+        <img src="image/menu6.jpg" alt="">
+        <p>写真キャプション写真キャプション</p>
+    </div>
+    <div class="item">
+        <img src="image/menu7.jpg" alt="">
+        <p>写真キャプション写真キャプション</p>
+    </div>
+    <div class="item">
+        <img src="image/menu8.jpg" alt="">
+        <p>写真キャプション写真キャプション</p>
+    </div>
+    <div class="item">
+        <img src="image/menu9.jpg" alt="">
+        <p>写真キャプション写真キャプション</p>
+    </div>
+    </div><!--grid-->
+</body>
+</html>
